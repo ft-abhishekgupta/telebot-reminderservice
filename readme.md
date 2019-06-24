@@ -14,7 +14,7 @@ In this current age and time People usually forget the birthdays , anniversary ,
 * TV Shows and Movies Buffs 
 
 ## Features
-* Custom Reminders
+* Custom Reminders and messages
 * TV and Movie Recommendation System
 * Cryptocurrency Values Subscription Integrated
 
