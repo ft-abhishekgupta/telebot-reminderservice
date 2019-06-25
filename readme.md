@@ -1,5 +1,5 @@
 # Telegram Reminder Service with Movie-TV Recommendation System
-![](./images/Image.png)
+![](./images/Image.jpg)
 ## Introduction 
 In this current age and time People usually forget the birthdays , anniversary , meetings , tasks to perform on time , as they are too busy in their day to day life. This project is developed for those people to get reminder about the important events that they need to give their attention to. Reminder Service is built upon Telegram App which anybody can use at any time. Apart from just a simple reminder service , the app is also aimed to give latest updates to users about some services they subscribed to. 
  
@@ -19,7 +19,7 @@ In this current age and time People usually forget the birthdays , anniversary ,
 * Cryptocurrency Values Subscription Integrated
 
 ## Architecture Model
-![](./images/architecture.png)
+![](./images/architecture.jpg)
 ---
 
 ## **Dependencies**
